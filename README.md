@@ -38,7 +38,8 @@
 
 <img src="/Images/1.jpg" width="800" height="600">
 
-In this project, we tackle the problem of generating color photorealistic images of human faces from corresponding hand-drawn sketches. We aggregate and align datasets CUHK and FS2K of facial sketches and corresponding real facial photos for training and evaluation. For our baseline we tried to follow 4 papers, sketch2face [Julia Gong et al.], pix2pix [Philip Isola et al.], and Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [Jun-Yan Zhu, Alexei A. Efros et al.] 
+In this project, we tackle the problem of generating color photorealistic images of human faces from corresponding hand-drawn sketches. We aggregate and align datasets CUHK and FS2K of facial sketches and corresponding real facial photos for training and evaluation. For our baseline we tried to follow 4 papers, sketch2face [Julia Gong et al.], pix2pix [Philip Isola et al.], and Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks [Jun-Yan Zhu, Alexei A. Efros et al.] <br/>
+For more details, please see [Report](/Report/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
